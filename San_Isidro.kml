@@ -1,0 +1,1449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>San_Isidro.kml</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin18</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin22</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin17">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin18">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin19">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin19</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin19</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin22">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin22</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffff55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>800000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>800000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffaaff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8000ff51</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin13">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ff00ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>800000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>800055ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin14">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8000aaff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ff55aa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin15">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8000aaff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8000ff55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8000ffaa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin16">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8000aaff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin17">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8000aa55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin18">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffff55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin19">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8000ffaa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin20">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8049f9ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>807f0000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin21">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffff55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin11">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8000ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin22">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ff00aa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin12">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffff55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>800000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8000ff55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>800000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffff55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ff00ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>800000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin17">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffff55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8049f9ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin20">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>807f0000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin21">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffff55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8000aa55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8000aaff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8000aaff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8000aaff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin11">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8000ffaa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin12">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8000ff51</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin13">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ff55aa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin16">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin14">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffff55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin18">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ff00aa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8000ffaa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin15">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffaaff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin19">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>800055ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin22">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8000ffff</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>San Isidro</name>
+		<Placemark>
+			<name>Sector3-2_SanIsidro</name>
+			<styleUrl>#msn_ylw-pushpin19</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.037097552454,-12.10727380994177,0 -77.03717157528017,-12.10511146834451,0 -77.03701644481094,-12.10407779102993,0 -77.03688415576029,-12.10305903809321,0 -77.03675749058807,-12.1020257945258,0 -77.03680873711842,-12.10156924779369,0 -77.03678017264691,-12.10100620149438,0 -77.03666762549449,-12.1005095282875,0 -77.03650111918584,-12.10022070668536,0 -77.03646942102418,-12.10005085791028,0 -77.03634068063694,-12.09904441806883,0 -77.03620183112901,-12.09803197944619,0 -77.03605486491956,-12.09765335440119,0 -77.03563416519923,-12.0968805541506,0 -77.03538513846306,-12.09652140482581,0 -77.03823704330489,-12.09579692659708,0 -77.03821621191999,-12.09624984378985,0 -77.0383938455014,-12.09691516027729,0 -77.03874461263317,-12.09757479770863,0 -77.03924908650487,-12.09843440633517,0 -77.03979787418102,-12.09920396652364,0 -77.04049221689716,-12.10003591365377,0 -77.04063265637738,-12.10012104102288,0 -77.03807203640908,-12.10060998458318,0 -77.03810594465401,-12.10091179562275,0 -77.03840322044316,-12.10183218114973,0 -77.03850436781472,-12.10246115280474,0 -77.03863144968638,-12.10314804213762,0 -77.03893213554497,-12.1045807967792,0 -77.03907340977334,-12.10568219408102,0 -77.03923631819963,-12.10618609860079,0 -77.03955185629104,-12.10715685282333,0 -77.03956880625041,-12.10749157544405,0 -77.04044213894589,-12.10835457264381,0 -77.03904005777845,-12.10977854438973,0 -77.03824282857154,-12.10898275518043,0 -77.03690130459282,-12.1103391099487,0 -77.037097552454,-12.10727380994177,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector3-3_SanIsidro</name>
+			<styleUrl>#msn_ylw-pushpin22</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.03156962078589,-12.10356349551262,0 -77.03153520880669,-12.10356107982176,0 -77.03262710827495,-12.09708055459607,0 -77.03343966555633,-12.09717134104011,0 -77.0338837057146,-12.09702606906573,0 -77.03538476081539,-12.09652616350039,0 -77.03563927136929,-12.09688496742318,0 -77.03605524634382,-12.09765361637002,0 -77.03620369318993,-12.09804021482577,0 -77.03650244430779,-12.10021983709617,0 -77.03666725012637,-12.10051073926807,0 -77.03678130756174,-12.10101076625911,0 -77.0368044531524,-12.10156817269962,0 -77.0367572178142,-12.10203357292143,0 -77.03717684934374,-12.10511846825299,0 -77.03689376924427,-12.11033075491261,0 -77.03156962078589,-12.10356349551262,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector3-1_SanIsidro</name>
+			<styleUrl>#msn_ylw-pushpin16</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.03823705935498,-12.09580075562219,0 -77.03537989839903,-12.09653138139135,0 -77.03344565811643,-12.0971709287111,0 -77.03262255143991,-12.09708321054694,0 -77.03331145485215,-12.09234529009998,0 -77.03364368317482,-12.09023997520046,0 -77.03475770172841,-12.09031125158992,0 -77.03561298611974,-12.09041605406122,0 -77.03642597732659,-12.09052624910921,0 -77.03723620177283,-12.09064974320274,0 -77.03803542941843,-12.09080329048394,0 -77.03892814005189,-12.09094996721915,0 -77.03823705935498,-12.09580075562219,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector4-3_SanIsidro</name>
+			<styleUrl>#msn_ylw-pushpin9</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.03153393146879,-12.10356026514433,0 -77.02728865784319,-12.10284299197864,0 -77.02689322076864,-12.10077790742854,0 -77.025990615577,-12.09877242513289,0 -77.0263556272152,-12.09864627113278,0 -77.02737067895559,-12.09816258328529,0 -77.02775257802421,-12.09815264723743,0 -77.02845627334251,-12.09825041568948,0 -77.02874421857453,-12.09651240519357,0 -77.03056813185114,-12.09677695507621,0 -77.03262924239701,-12.09708365208443,0 -77.03153393146879,-12.10356026514433,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector4-2_SanIsidro</name>
+			<styleUrl>#msn_ylw-pushpin14</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.02599350668999,-12.09877492354062,0 -77.02309441983836,-12.09265410284666,0 -77.02275973163303,-12.09163533261962,0 -77.02280017707177,-12.09081005203851,0 -77.02304768300554,-12.09004645518631,0 -77.02462758534826,-12.09052630517719,0 -77.02596807933126,-12.0906951998404,0 -77.02709418066102,-12.09085018876122,0 -77.0281716552286,-12.09099129681139,0 -77.02985593044333,-12.09121297669749,0 -77.02995816749706,-12.09115723088495,0 -77.03016373764488,-12.09185944280172,0 -77.02941282455737,-12.09175292118092,0 -77.02927780942279,-12.09280271826925,0 -77.02903866591826,-12.09433678103994,0 -77.02874021960139,-12.09652214523001,0 -77.02845955320072,-12.09824120661095,0 -77.02775029726361,-12.09815057338917,0 -77.02737188017761,-12.09816622885514,0 -77.02634641665645,-12.0986541581943,0 -77.02599350668999,-12.09877492354062,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector4-1s_SanIsidro</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.0326214153322,-12.09708213490199,0 -77.02874459718944,-12.0965154547886,0 -77.02940458903262,-12.0917469187648,0 -77.0301585481257,-12.09185193004674,0 -77.02995876841504,-12.09115830835476,0 -77.03016332516763,-12.09110152662632,0 -77.0324036052893,-12.09089430539286,0 -77.03286755921478,-12.09083882723337,0 -77.03338917969253,-12.09073399965642,0 -77.03357233145493,-12.09068637605824,0 -77.03331243282733,-12.09230703895125,0 -77.0326214153322,-12.09708213490199,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector4-4_SanIsidro</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.02728600499732,-12.10284847437374,0 -77.01875804141308,-12.10196391489943,0 -77.01913632141216,-12.10065362201283,0 -77.01983173809487,-12.09912626683136,0 -77.02042753038272,-12.09741833741672,0 -77.02123059239005,-12.0954315034339,0 -77.02192837523836,-12.09358529233375,0 -77.02234875938835,-12.09261699555402,0 -77.02234828282117,-12.09208579993367,0 -77.02197633796904,-12.09149394617185,0 -77.02152208706973,-12.09094974986888,0 -77.02112294367286,-12.0905481568001,0 -77.02279536175665,-12.09081499184102,0 -77.02275647452012,-12.09162672417031,0 -77.02308835011212,-12.09264310302303,0 -77.02599501957495,-12.0987736649475,0 -77.02689488615947,-12.10077195862776,0 -77.02728600499732,-12.10284847437374,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector5-1_SanIsidro</name>
+			<styleUrl>#msn_ylw-pushpin10</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.02151556955975,-12.09093777729176,0 -77.02198870995123,-12.09150779232983,0 -77.02234486719803,-12.0920790776388,0 -77.02234715572888,-12.09260693737302,0 -77.01913695901351,-12.10064761367278,0 -77.01875709554852,-12.10196446142882,0 -77.01647845212889,-12.1022992134774,0 -77.01656853254677,-12.10283202969071,0 -77.01666013627676,-12.10340721803628,0 -77.01683536309503,-12.10426299442872,0 -77.01694549732785,-12.10558421809097,0 -77.01651825575708,-12.10616100951249,0 -77.01475418940514,-12.1029571299201,0 -77.01387772174104,-12.10133167859817,0 -77.01303235106964,-12.099754963012,0 -77.01386374005448,-12.0993900913605,0 -77.01403352726219,-12.09930078488903,0 -77.01439842770249,-12.0991875206727,0 -77.01534583940413,-12.09906271760276,0 -77.01666670733466,-12.09886489376058,0 -77.01694486021619,-12.09871950030076,0 -77.01702472674718,-12.09853611323105,0 -77.01711199028307,-12.09810996112266,0 -77.01729343960815,-12.09797432876258,0 -77.01728396864105,-12.09784153136195,0 -77.01832549928518,-12.09770522409272,0 -77.01824458179044,-12.09688785583094,0 -77.01827511362666,-12.09623829630932,0 -77.01880603373407,-12.0943361571421,0 -77.01908874522977,-12.09437453171267,0 -77.0191815227619,-12.09415502750929,0 -77.01927922057234,-12.0938586254459,0 -77.01933372560514,-12.09343500765672,0 -77.01938463002398,-12.09318095101282,0 -77.01926815425834,-12.0929312260543,0 -77.01904283995871,-12.09256162075829,0 -77.01902591194894,-12.09242031737238,0 -77.01900330349405,-12.09199057791729,0 -77.01895120780584,-12.09153089779896,0 -77.01908246767206,-12.09033040385874,0 -77.02112394774311,-12.09055706994852,0 -77.02151556955975,-12.09093777729176,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector5-2_SanIsidro</name>
+			<styleUrl>#msn_ylw-pushpin7</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.01303027225532,-12.09975876759528,0 -77.01278887201262,-12.09878350486555,0 -77.01267561268698,-12.09800227938036,0 -77.01264403662684,-12.09731895565882,0 -77.01301712917785,-12.09550739776146,0 -77.0135542744318,-12.09304418364538,0 -77.01434709393351,-12.0896209714819,0 -77.01908301019026,-12.09033767252031,0 -77.01894723033283,-12.09155914682308,0 -77.01901284122287,-12.09209187864525,0 -77.01903395960342,-12.09255766415403,0 -77.0192746117077,-12.09294044369494,0 -77.01938158573117,-12.09318313479917,0 -77.01927594151067,-12.09385395018324,0 -77.01919641557316,-12.09410671242743,0 -77.01908990943572,-12.09437441653637,0 -77.01880667109081,-12.09433441930872,0 -77.01845098261499,-12.09560704825024,0 -77.01827189421115,-12.09623862185571,0 -77.01824400951361,-12.09688956061906,0 -77.01832523710044,-12.09770337699375,0 -77.01728608004731,-12.09784194787384,0 -77.01729188803952,-12.09797027443012,0 -77.01710623688662,-12.09810954614894,0 -77.01702456157635,-12.09853115678415,0 -77.01694184987645,-12.09871913649605,0 -77.01666527838704,-12.09886589643912,0 -77.01439269505515,-12.09918960402079,0 -77.01403000441461,-12.09930329885293,0 -77.01387452546246,-12.09938593269257,0 -77.01303027225532,-12.09975876759528,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector5-3_SanIsidro</name>
+			<styleUrl>#msn_ylw-pushpin13</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.01266949987986,-12.09795995623688,0 -77.01191224163415,-12.09805457333548,0 -77.01189933648739,-12.09794576798592,0 -77.01173502073715,-12.09746990368016,0 -77.01132448278484,-12.09654424610186,0 -77.01032316138347,-12.09466680816731,0 -77.00983558661012,-12.0938170966826,0 -77.00916715149907,-12.0926349183516,0 -77.00844123598679,-12.09131645453451,0 -77.0080453744248,-12.09060636782553,0 -77.00764325477876,-12.08974845995425,0 -77.00752456656329,-12.08927516614295,0 -77.00758918816396,-12.08870398874053,0 -77.00977669222682,-12.08898677602488,0 -77.01433677647974,-12.08962020176282,0 -77.01408309742274,-12.09072365926323,0 -77.01338607855655,-12.09377583823905,0 -77.01264500623678,-12.09730314845944,0 -77.01266949987986,-12.09795995623688,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector5-4_SanIsidro</name>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.01276760335779,-12.09875334129657,0 -77.01303173953806,-12.09975107404885,0 -77.01486385287389,-12.10313589931566,0 -77.01651655888878,-12.10616477824115,0 -77.01477464144062,-12.10844591245275,0 -77.01456662096861,-12.10837244016696,0 -77.0108359458542,-12.10771051646432,0 -77.01094362617093,-12.10737625617972,0 -77.01046974877772,-12.10729175351231,0 -77.01108669383032,-12.10455897972148,0 -77.01139176381317,-12.10320379581605,0 -77.01168282024928,-12.10179287806032,0 -77.01187431598701,-12.10083176522857,0 -77.01198763740486,-12.10020190445589,0 -77.01204033762841,-12.099321095845,0 -77.01197134035111,-12.09864680868165,0 -77.01191133671135,-12.09805733529109,0 -77.01267230135068,-12.09795603729239,0 -77.01276760335779,-12.09875334129657,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector2-5_SanIsidro</name>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.03956257859082,-12.10749459463841,0 -77.03955362855108,-12.10715334048167,0 -77.03907076318575,-12.10569363962394,0 -77.03892088894106,-12.10454804897943,0 -77.03864074609051,-12.10320343401315,0 -77.0384060619175,-12.10181823750473,0 -77.03809551016218,-12.10091481127072,0 -77.03806840323925,-12.10060775145609,0 -77.04062266452857,-12.10012687474131,0 -77.04653668158822,-12.09903163952238,0 -77.04774211177578,-12.09881819642952,0 -77.04906378844143,-12.09853985238174,0 -77.04934601484469,-12.09850553824971,0 -77.04959144790477,-12.09882212609509,0 -77.05003566643124,-12.09888820499083,0 -77.05093865873565,-12.09898150460026,0 -77.05094600576767,-12.09929647227627,0 -77.05112627708995,-12.10045954074814,0 -77.0512091295335,-12.10128239888722,0 -77.05135805920898,-12.1023706161542,0 -77.05145623173111,-12.10299531000291,0 -77.04994037235723,-12.10295913361301,0 -77.04799479278084,-12.10292860942059,0 -77.04795557397458,-12.10371545435551,0 -77.04790222896658,-12.10419645215847,0 -77.04743991806832,-12.10474442427996,0 -77.04735547561246,-12.10495604452034,0 -77.04748575834689,-12.10569961577457,0 -77.04586709030499,-12.10598800107421,0 -77.04334257970618,-12.10657842190952,0 -77.04316009684175,-12.10642886084573,0 -77.04287172202577,-12.1063304407118,0 -77.04254062683745,-12.10632073184723,0 -77.04214850346409,-12.10638314692294,0 -77.04179763720168,-12.10649006918017,0 -77.04150265336426,-12.1066415609979,0 -77.04127015087822,-12.10691553617534,0 -77.04108253964748,-12.10731031493484,0 -77.04110248616857,-12.10766632209637,0 -77.04042977359661,-12.10835529528898,0 -77.03956257859082,-12.10749459463841,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector2-6_SanIsidro</name>
+			<styleUrl>#msn_ylw-pushpin8</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.04315497742952,-12.11091536070869,0 -77.04043142824807,-12.10835805976251,0 -77.04110162340605,-12.10766617030569,0 -77.04107181465484,-12.10731515013222,0 -77.04126700229696,-12.10691136442617,0 -77.04149264778226,-12.10664308256147,0 -77.04180186422066,-12.10649222508734,0 -77.04214292911628,-12.10638650615559,0 -77.04253511355827,-12.10632442555527,0 -77.04286465570578,-12.10633600139018,0 -77.04316953609656,-12.10643789685207,0 -77.0433345579103,-12.10657578866707,0 -77.04583015434417,-12.10600190805634,0 -77.04748296526897,-12.10569528935904,0 -77.04826135345439,-12.10933480374945,0 -77.04665195768239,-12.11085681555273,0 -77.04623601531362,-12.11054469863454,0 -77.04480502044839,-12.11047578704055,0 -77.04440050834491,-12.11044451173714,0 -77.04401849261309,-12.1104881749626,0 -77.04366257580131,-12.11057543701321,0 -77.04335073034004,-12.11074196538141,0 -77.04315497742952,-12.11091536070869,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector2-4_SanIsidro</name>
+			<styleUrl>#msn_ylw-pushpin11</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.04824146141002,-12.10934329996705,0 -77.04749017037018,-12.10574058883505,0 -77.04735934949917,-12.10494960267784,0 -77.04744089590444,-12.10474230261372,0 -77.04789890542541,-12.10420349325397,0 -77.04839684357418,-12.10421433511603,0 -77.04854902444741,-12.10429792241311,0 -77.04871249924123,-12.10482703092731,0 -77.04893702838683,-12.10554399365818,0 -77.04944172149634,-12.10679249149173,0 -77.04992159795209,-12.10794097778755,0 -77.04927375408987,-12.10837357420422,0 -77.04824146141002,-12.10934329996705,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector2-3_SanIsidro</name>
+			<styleUrl>#msn_ylw-pushpin6</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.04992071665407,-12.10794182859415,0 -77.04896021686795,-12.10560485869502,0 -77.04855848912706,-12.10429556947752,0 -77.04839361303186,-12.10421554961373,0 -77.04789559514236,-12.10421031281492,0 -77.04799856611373,-12.10293995556396,0 -77.05145910997147,-12.10298051636824,0 -77.05176711013272,-12.10467885619457,0 -77.05243029127506,-12.10629809563835,0 -77.05311525964754,-12.10711327377431,0 -77.05382518685113,-12.10774614465929,0 -77.0514234893968,-12.11019220282587,0 -77.04926800869342,-12.10837399669962,0 -77.04992071665407,-12.10794182859415,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector2-2_SanIsidro</name>
+			<styleUrl>#msn_ylw-pushpin17</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.05381833688058,-12.10774438236823,0 -77.05311201084355,-12.10711630062172,0 -77.0524225808791,-12.10629246564479,0 -77.05176909133019,-12.10469202200298,0 -77.05145434194658,-12.10298620968109,0 -77.05092072552158,-12.09897920158867,0 -77.05225536944208,-12.09907364261581,0 -77.05366635409383,-12.09894680708842,0 -77.05475807406799,-12.09848359151856,0 -77.05579987557724,-12.09798931129922,0 -77.05636210431686,-12.09907489802512,0 -77.05751134631264,-12.10127230779798,0 -77.05836279499263,-12.10291037389377,0 -77.05381833688058,-12.10774438236823,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector2-1_SanIsidro</name>
+			<styleUrl>#msn_ylw-pushpin18</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.05836761744108,-12.1029077314216,0 -77.05750985923183,-12.10127479371772,0 -77.05580216685915,-12.09798459074752,0 -77.05964626332664,-12.09607898829232,0 -77.05981545608275,-12.09701449096748,0 -77.05974745580974,-12.09725109047572,0 -77.06006828869195,-12.09950032515541,0 -77.06023429784459,-12.09988235647431,0 -77.06083586501693,-12.10095057697425,0 -77.06078592612627,-12.10120869315584,0 -77.06064024239173,-12.10130632761836,0 -77.06068943151398,-12.1016307107152,0 -77.06075185557066,-12.10211952992402,0 -77.06068442659237,-12.10258284491846,0 -77.06051205270862,-12.10305795166475,0 -77.0606158689933,-12.10347491698859,0 -77.06072177252908,-12.10375102153451,0 -77.06070764991213,-12.10396090340015,0 -77.06041264784537,-12.10420863114935,0 -77.06025556028717,-12.10442343936242,0 -77.06023059328857,-12.1048065784229,0 -77.06014538359948,-12.1051145451079,0 -77.05986469756718,-12.10522099482985,0 -77.05953563296956,-12.10522605383036,0 -77.05938232450575,-12.1053006009998,0 -77.05836761744108,-12.1029077314216,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector2-1_SanIsidro</name>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.05837726343405,-12.10294533103852,0 -77.05938214602129,-12.10529358438233,0 -77.05958813300161,-12.10522705127391,0 -77.05986986429465,-12.10522681449267,0 -77.06013602101673,-12.10512236624939,0 -77.0603768825316,-12.10530412138807,0 -77.06173942955932,-12.10653542210105,0 -77.06198751899554,-12.10678367334767,0 -77.06166839019296,-12.10700215052844,0 -77.06149964403298,-12.10748117117375,0 -77.06109054588863,-12.10783445339425,0 -77.06080001381949,-12.10791605374357,0 -77.06045900795772,-12.10817867902287,0 -77.0602722134692,-12.10835403597432,0 -77.0601442583165,-12.10859267360514,0 -77.05639634788676,-12.11136089299436,0 -77.05585496433,-12.11101220480769,0 -77.0553454571107,-12.11088741089583,0 -77.05502023635344,-12.11068357904785,0 -77.0548605285767,-12.11002121401641,0 -77.05426157206179,-12.10976627921536,0 -77.05330630814069,-12.10949035069725,0 -77.05315142281508,-12.10924114255912,0 -77.05300828615938,-12.10886058971264,0 -77.05284779514487,-12.10875519538081,0 -77.05837726343405,-12.10294533103852,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector1-6_SanIsidro</name>
+			<styleUrl>#msn_ylw-pushpin15</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.04064358821046,-12.10012732344324,0 -77.04049713301063,-12.1000562914283,0 -77.03980964144201,-12.09920279442509,0 -77.03925560822013,-12.09843200888061,0 -77.0384043422419,-12.09693119747619,0 -77.03821712841122,-12.09625831497595,0 -77.03830503484421,-12.0952976763783,0 -77.03863225742396,-12.09302977290451,0 -77.04389035891042,-12.09375078397976,0 -77.04331141592345,-12.09754739485551,0 -77.04376250069032,-12.09953911591468,0 -77.04064358821046,-12.10012732344324,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector1-5_SanIsidro</name>
+			<styleUrl>#msn_ylw-pushpin21</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.05005098820153,-12.0988822211896,0 -77.04958791086918,-12.09882285394518,0 -77.04933766958152,-12.0985127801031,0 -77.04907329770772,-12.09855167931238,0 -77.04375648640497,-12.09954093220881,0 -77.04330917515725,-12.09756961633959,0 -77.04389056130991,-12.09375164720787,0 -77.05062011699593,-12.09470869963947,0 -77.05024408217632,-12.09715967366729,0 -77.05026717181566,-12.09740367498738,0 -77.05005098820153,-12.0988822211896,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector1-4_SanIsidro</name>
+			<styleUrl>#msn_ylw-pushpin5</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.05061854210371,-12.09471337268072,0 -77.05326428464269,-12.09300977716914,0 -77.05579843569969,-12.09797262609898,0 -77.05484271737747,-12.09844760202611,0 -77.05457679823745,-12.09856238081341,0 -77.05366703813834,-12.09894629447844,0 -77.0522526545287,-12.09907650201012,0 -77.05091810053283,-12.09898278996067,0 -77.05004840961109,-12.09889247366502,0 -77.05026720314989,-12.09738836707825,0 -77.05023937793607,-12.09718590811716,0 -77.05047817507365,-12.09561900030368,0 -77.05061854210371,-12.09471337268072,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector1-3_SanIsidro</name>
+			<styleUrl>#msn_ylw-pushpin12</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.05325966814,-12.09300713293665,0 -77.05766563681405,-12.09010495505131,0 -77.05841361633894,-12.09101640696203,0 -77.05895258902359,-12.09210250738419,0 -77.0591873804519,-12.09269032951164,0 -77.05930622734832,-12.09349736547278,0 -77.05965650950886,-12.09601809190359,0 -77.05964348612387,-12.09608237818999,0 -77.05580015817573,-12.09798439293696,0 -77.05325966814,-12.09300713293665,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector1-1_SanIsidro</name>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.05062257910416,-12.094702446688,0 -77.04731422666866,-12.09423121412862,0 -77.04850293428967,-12.0856648025116,0 -77.04854621220787,-12.08528430318225,0 -77.04851355836365,-12.08496984654683,0 -77.04942952986694,-12.08588583141854,0 -77.05001510381804,-12.08680334608687,0 -77.05066722035534,-12.08807897047228,0 -77.05324711201273,-12.09301690449241,0 -77.05062257910416,-12.094702446688,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector1-2_SanIsidro</name>
+			<styleUrl>#msn_ylw-pushpin20</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.04730335942752,-12.09422563352616,0 -77.03864105967111,-12.0930334333942,0 -77.0389165157341,-12.09096051422202,0 -77.04418580910472,-12.09176864986001,0 -77.04529048428988,-12.09190172870418,0 -77.0464334145977,-12.09202010712507,0 -77.04683882545795,-12.09208458678127,0 -77.04684949891325,-12.09190339503073,0 -77.04709257830855,-12.09189691714071,0 -77.04711833421774,-12.09146434249418,0 -77.04685222159665,-12.09142369398803,0 -77.04712363700013,-12.0894390428556,0 -77.04735819820509,-12.08825306483704,0 -77.0477373017616,-12.08831102348431,0 -77.04785660437103,-12.08787456902931,0 -77.04742651911307,-12.08781223206284,0 -77.04747419481508,-12.08748000655375,0 -77.04756466967311,-12.08648432582453,0 -77.04802026512557,-12.08655316289345,0 -77.04807426546044,-12.08622619503024,0 -77.04793441633925,-12.08620011450918,0 -77.04803052915972,-12.08579298733519,0 -77.04812218256751,-12.08582000635739,0 -77.04820423510141,-12.08543865463357,0 -77.04851578483868,-12.08548619787363,0 -77.04730335942752,-12.09422563352616,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
