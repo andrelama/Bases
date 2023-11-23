@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>San_Borja.kml</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffffaa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>800000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8000ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ff00aa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ff55ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffaaff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ff00aa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8000aaff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8000aaff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8000aa55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>800000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8000aa55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ff55ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffffaa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffaaff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ff00aa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8000aaff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ff00aa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8000aaff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8000ffff</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>San Borja</name>
+		<open>1</open>
+		<Placemark>
+			<name>Sector1_SanBorja</name>
+			<open>1</open>
+			<styleUrl>#msn_ylw-pushpin8</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-76.99809405966889,-12.08294261771975,0 -76.999048012458,-12.08340211543115,0 -77.00031509774263,-12.08354039107246,0 -77.00156823280696,-12.08372577807808,0 -77.00300632787201,-12.08393024169647,0 -77.00447563376269,-12.08413827435841,0 -77.00642900830654,-12.0844431930627,0 -77.00806825594317,-12.08463573585043,0 -77.00987195660325,-12.08489197461574,0 -77.01003944178321,-12.08491825009036,0 -77.01003055217591,-12.08541894551265,0 -77.01006346098818,-12.08608385007973,0 -77.01011917165494,-12.08681046687533,0 -77.00999513972725,-12.0876569210428,0 -77.00978583664217,-12.08898074328537,0 -77.00809963081872,-12.0887790269767,0 -77.00687462146061,-12.0886146768757,0 -77.00608587993425,-12.08855469767463,0 -77.00464242329571,-12.0883760781554,0 -77.00356588412978,-12.08822197628461,0 -77.00225765985854,-12.08804328658088,0 -77.00153965873395,-12.0879490370351,0 -77.0005396518582,-12.08778876823323,0 -76.99926352071461,-12.08761214089176,0 -76.99824675752338,-12.08747583214195,0 -76.99730263846119,-12.08728771920316,0 -76.9964941005076,-12.08717641755866,0 -76.99722420258153,-12.08234151725041,0 -76.99809405966889,-12.08294261771975,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector2_SanBorja</name>
+			<styleUrl>#msn_ylw-pushpin5</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-76.99283090332166,-12.08171112428189,0 -76.99297214518157,-12.08141889621627,0 -76.99338074407738,-12.08161671849855,0 -76.99353852038529,-12.08097876698324,0 -76.99482263838551,-12.08129189824077,0 -76.99589112387126,-12.08156502731469,0 -76.99720808746139,-12.08232844790946,0 -76.99696212716979,-12.08409270368845,0 -76.99649701380129,-12.08717380536205,0 -76.99513258122425,-12.08694315982962,0 -76.99359108403898,-12.08669135383009,0 -76.9918960333401,-12.08646432914982,0 -76.98928995417837,-12.08611028347533,0 -76.98784216840527,-12.08586617248977,0 -76.98687675600659,-12.08563568394266,0 -76.98571206279944,-12.0852278310977,0 -76.98395652521921,-12.08501370245019,0 -76.9841817047984,-12.08389780465571,0 -76.98425757127404,-12.08376309075484,0 -76.98465011965479,-12.08323230898208,0 -76.98504585141127,-12.08275907745165,0 -76.98547025863589,-12.08220058728858,0 -76.98602812287064,-12.08153126131724,0 -76.98660595986763,-12.0807702786695,0 -76.98729206253718,-12.07992526669055,0 -76.9889161703223,-12.08120068849895,0 -76.98963393544535,-12.08173982280158,0 -76.99283090332166,-12.08171112428189,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector3_SanBorja</name>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.00758428482212,-12.08874274758024,0 -77.00752998371827,-12.08927988334822,0 -77.00763699064169,-12.08974980866415,0 -77.00817382920265,-12.0908409071168,0 -77.00863523216586,-12.0916684973809,0 -77.00942144629356,-12.09308190955446,0 -77.00987079356872,-12.09389887411889,0 -77.00925182084417,-12.09513667137866,0 -77.00724017460519,-12.09467743782334,0 -77.00589433460755,-12.09437281590865,0 -77.00457617951852,-12.0942498897009,0 -77.00326945049635,-12.09427741773887,0 -77.00079207408143,-12.09416087074788,0 -76.99915116431276,-12.09372434574565,0 -76.99807352864293,-12.09332594593423,0 -76.99699771429617,-12.09307242789217,0 -76.99569676929411,-12.09305430509482,0 -76.99649285826146,-12.0871752542438,0 -76.99843276229103,-12.08746957278471,0 -76.99847411557352,-12.08746941347176,0 -77.00060144005518,-12.08777167924651,0 -77.00353344166413,-12.08823235916246,0 -77.00758428482212,-12.08874274758024,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector4_SanBorja</name>
+			<styleUrl>#msn_ylw-pushpin10</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-76.99648880459134,-12.08717262873442,0 -76.99568279582478,-12.09304999132375,0 -76.99481632298233,-12.09307923982029,0 -76.99428369154468,-12.09326771721496,0 -76.99373807397959,-12.09342038329007,0 -76.99306303212089,-12.09367860750593,0 -76.99254327572126,-12.09396968400577,0 -76.99131999082974,-12.09510870903617,0 -76.99075427035251,-12.09553981107351,0 -76.98999858814439,-12.09574092759132,0 -76.98970919072917,-12.09583822052716,0 -76.98911550548534,-12.09604156600489,0 -76.98894318470964,-12.09612811162687,0 -76.98866179462564,-12.09566725319369,0 -76.98837209781564,-12.09506979640547,0 -76.98803955120327,-12.09423620283185,0 -76.98732538934719,-12.09283541191436,0 -76.98639909735434,-12.09132792148602,0 -76.98577647091821,-12.09027285058081,0 -76.98547493436804,-12.08974876751884,0 -76.98489378226466,-12.08914279412891,0 -76.98466867722625,-12.08882637851732,0 -76.98402839764546,-12.08752738807258,0 -76.98371387848292,-12.08671932623184,0 -76.98357708114264,-12.08654275843972,0 -76.98376273383863,-12.08624962914367,0 -76.98389431262289,-12.08566290043683,0 -76.98397162887611,-12.08500226883267,0 -76.98567963108857,-12.08523434476685,0 -76.98692427469945,-12.08568375529505,0 -76.98836555103249,-12.08597153880231,0 -76.98974981113925,-12.08618736399102,0 -76.99106414032981,-12.08635704254162,0 -76.99360300220481,-12.08670898585227,0 -76.9944308731355,-12.0868297000601,0 -76.9958544486183,-12.08707029131738,0 -76.99648880459134,-12.08717262873442,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector5_SanBorja</name>
+			<styleUrl>#msn_ylw-pushpin9</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-76.98390287658857,-12.08551389631858,0 -76.98386114587311,-12.08576250900393,0 -76.98376045286743,-12.08624929896778,0 -76.98355766964764,-12.08654125815876,0 -76.98370799393692,-12.086721333346,0 -76.98399566490801,-12.08747214002123,0 -76.98403131864731,-12.08755117978842,0 -76.98421318054245,-12.08792419299557,0 -76.98467749213695,-12.0888479119545,0 -76.98493374357622,-12.08919965345285,0 -76.98546239436601,-12.08975694223571,0 -76.98584613080662,-12.09041921278241,0 -76.98650753615163,-12.09153393657922,0 -76.98692354616655,-12.09221743500403,0 -76.98727221976816,-12.09280371141045,0 -76.98745377673099,-12.09312270547168,0 -76.98768570713352,-12.09356120211096,0 -76.9880715996723,-12.09437736088301,0 -76.98826739783972,-12.09478449782475,0 -76.98856903262661,-12.09552794335687,0 -76.98893016274229,-12.0961225610999,0 -76.98799191434534,-12.09640962464493,0 -76.98727454887761,-12.09654007053019,0 -76.98679729271905,-12.09650299275352,0 -76.98577069507513,-12.09643600443458,0 -76.98542765598219,-12.09643435281727,0 -76.98456231367467,-12.09665408994246,0 -76.98385297697207,-12.09716226970807,0 -76.98322908135047,-12.09749530776407,0 -76.98247320246055,-12.09764702102358,0 -76.98182740908533,-12.09755905482738,0 -76.98098708885759,-12.09745119577891,0 -76.98083934955815,-12.09802865500165,0 -76.98048345499457,-12.10066884502442,0 -76.98026037399944,-12.10257570812379,0 -76.97928208424159,-12.10250277380001,0 -76.98064947941322,-12.09240721862758,0 -76.98084549689571,-12.09071656283976,0 -76.98103558277903,-12.0894236056048,0 -76.9811248952483,-12.08872628424065,0 -76.98146488781899,-12.08781948706497,0 -76.98167958106988,-12.087364948485,0 -76.98193955080892,-12.08674895096718,0 -76.98210436960305,-12.08631427723802,0 -76.98225240712662,-12.08570785512188,0 -76.98218481080532,-12.08529733318686,0 -76.98206204552824,-12.08492324452064,0 -76.98396131921707,-12.08502516597332,0 -76.98390287658857,-12.08551389631858,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector6_SanBorja</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.01037506113036,-12.09475836311678,0 -77.01077264076091,-12.09552030240988,0 -77.01131601759388,-12.09654993990828,0 -77.01174903500046,-12.09750200122007,0 -77.01189741517064,-12.09794290365114,0 -77.0119710710744,-12.09859707198935,0 -77.01204328020552,-12.09931668070329,0 -77.01199438312746,-12.10018886255932,0 -77.01184117440727,-12.10100951138525,0 -77.0114634917545,-12.10287665494434,0 -77.01133172053795,-12.10279437981685,0 -77.01111280614393,-12.10264365940725,0 -77.01083607828501,-12.1022684052925,0 -77.01062244031364,-12.10184351374893,0 -77.01047153743058,-12.1014603874211,0 -77.0104371669957,-12.10108906971555,0 -77.0104069254171,-12.10059362816112,0 -77.0105014887103,-12.1002017142275,0 -77.01057372459299,-12.09956498683321,0 -77.00994117738628,-12.09958550055575,0 -77.00946898111214,-12.09978498930105,0 -77.00878019670346,-12.10030423193661,0 -77.00822031440856,-12.10058947717355,0 -77.00718118264123,-12.10081565419898,0 -77.00571671951893,-12.10103888144659,0 -77.00482831100253,-12.10116436248385,0 -77.00381697898324,-12.10120016278445,0 -77.00272611535016,-12.10113424346225,0 -77.00169141089619,-12.10093682105219,0 -77.00207437534482,-12.09844247877894,0 -77.00231354103893,-12.09666174098495,0 -77.00241140514751,-12.09601245834586,0 -77.00261330557107,-12.09470735444247,0 -77.00267792629454,-12.09425145260953,0 -77.00439345649667,-12.09426180450277,0 -77.00586800942527,-12.0943690623347,0 -77.00775840342727,-12.09480495414968,0 -77.0092375274768,-12.09513709745092,0 -77.00987245270002,-12.09390170408498,0 -77.01037506113036,-12.09475836311678,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector7_SanBorja</name>
+			<styleUrl>#msn_ylw-pushpin6</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.00267956279518,-12.09425426873107,0 -77.00170842147493,-12.10092502736502,0 -77.00104722653103,-12.10090177446632,0 -76.9994213216264,-12.10061522007554,0 -76.9978001380355,-12.10028876252999,0 -76.99678135629921,-12.10016682578238,0 -76.99587041609084,-12.10014990205237,0 -76.99468591110646,-12.10018740640118,0 -76.99366905399279,-12.10026280701207,0 -76.99300523793809,-12.10046421541071,0 -76.99190800608579,-12.10113504059868,0 -76.990677981633,-12.10219500611223,0 -76.99016711898018,-12.10248633255786,0 -76.98969293766932,-12.10148342018151,0 -76.98946377516866,-12.10095690626029,0 -76.98930326405338,-12.10054574544301,0 -76.98925869527157,-12.10045506918565,0 -76.989105565305,-12.09987893400607,0 -76.98911156913387,-12.09930776253355,0 -76.98915051255854,-12.09900787006241,0 -76.9892135381137,-12.09866102021111,0 -76.98922912675003,-12.09796289794702,0 -76.98923143146141,-12.09736261551974,0 -76.98922241345019,-12.09674034336367,0 -76.98921101416093,-12.09623117338835,0 -76.98920235163526,-12.09601883344423,0 -76.98982849025619,-12.09580087827116,0 -76.99027164157108,-12.09567508837386,0 -76.99075225857094,-12.0955435977333,0 -76.99121343893276,-12.09520758894531,0 -76.99166853049904,-12.09480160106069,0 -76.9922920667864,-12.09421166885789,0 -76.99261320730731,-12.09394149638748,0 -76.99308916854118,-12.09367311566154,0 -76.99377112882989,-12.09341855909582,0 -76.99421505679089,-12.09329263924121,0 -76.99457301470356,-12.09315380212175,0 -76.9948263538292,-12.09307578124194,0 -76.99517528839739,-12.0930656733249,0 -76.99568726737829,-12.09304818842482,0 -76.99638166777207,-12.09306776318263,0 -76.99700430847687,-12.09306775979135,0 -76.99757089437394,-12.09321085318332,0 -76.99795899001087,-12.09330289662219,0 -76.99812636874925,-12.09334996595265,0 -76.99845402123171,-12.09347101121462,0 -76.99914872750723,-12.09372722179221,0 -76.99979051668844,-12.09390312668734,0 -77.00080587173233,-12.09415632133103,0 -77.00267956279518,-12.09425426873107,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector8_SanBorja</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.01040544295942,-12.10760502574853,0 -77.01032587586636,-12.10790736469641,0 -77.01011318386438,-12.10826689138695,0 -77.00975810403082,-12.10852729396381,0 -77.0092999097722,-12.10866964953479,0 -77.00890167612926,-12.10870358477328,0 -77.00834877118115,-12.10866037456349,0 -77.00788581381646,-12.10875587138774,0 -77.00789478534512,-12.10860331780047,0 -77.00791997583103,-12.1083426340551,0 -77.0079652687056,-12.10789801417249,0 -77.00799119427231,-12.10754659472224,0 -77.00788138682348,-12.10746246563602,0 -77.00717921769919,-12.10701455226052,0 -77.00663767141906,-12.10668781338233,0 -77.00614381637432,-12.10637428392794,0 -77.00597543988891,-12.10623815831972,0 -77.00592632627284,-12.10610485043863,0 -77.00592627775652,-12.10591383055305,0 -77.00589385980734,-12.10580030615262,0 -77.00490879282873,-12.10585443044975,0 -77.0040609531801,-12.10584942201209,0 -77.0024647314369,-12.1058321016792,0 -77.00103181577389,-12.10583890473755,0 -77.00139400232379,-12.10310137242551,0 -77.001704566736,-12.10094494430225,0 -77.00244932575406,-12.10109214554467,0 -77.00326888060779,-12.10117206730829,0 -77.00437577036907,-12.1011798943787,0 -77.00552253712564,-12.1010686916374,0 -77.00628152101227,-12.10095620451392,0 -77.00728209910108,-12.10079747602306,0 -77.00821604609038,-12.10059117442552,0 -77.00876898441628,-12.10031371943472,0 -77.0094708290119,-12.09979267504438,0 -77.00994135534991,-12.09959010000081,0 -77.01056767575015,-12.09957653991816,0 -77.01050098407512,-12.10019738067217,0 -77.01040975296148,-12.10059816442241,0 -77.01046367596318,-12.10147132336743,0 -77.01082737621491,-12.10224750104981,0 -77.01111051570278,-12.10265956204387,0 -77.01146079336972,-12.10288077251491,0 -77.01040544295942,-12.10760502574853,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector9_SanBorja</name>
+			<styleUrl>#msn_ylw-pushpin7</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.00169009650378,-12.10093072814099,0 -77.00098516393417,-12.10580348105393,0 -77.00085162960994,-12.10706655057286,0 -76.99827238477782,-12.10691526713732,0 -76.9968394505091,-12.10683020959874,0 -76.99545336852445,-12.10672043635371,0 -76.99518658171668,-12.10673963830881,0 -76.9947913570649,-12.10695948616644,0 -76.99266902949205,-12.10789111619324,0 -76.99258146263585,-12.10791820352743,0 -76.99188833000761,-12.1063867626707,0 -76.9913648457926,-12.10526965345824,0 -76.99053296804769,-12.10343726523455,0 -76.99016545408887,-12.102488375034,0 -76.99067903717484,-12.10219629560156,0 -76.99192625482124,-12.10114195363792,0 -76.993029529751,-12.10047586125836,0 -76.9936832562703,-12.10026631105048,0 -76.99481683749291,-12.10018894160059,0 -76.99617179946979,-12.10015563917873,0 -76.99682574548268,-12.10017569667759,0 -76.99777544132826,-12.10028129219578,0 -76.99882693395803,-12.1004963025942,0 -77.00105790640083,-12.10091487034932,0 -77.00169009650378,-12.10093072814099,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector10_SanBorja</name>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.0103304922886,-12.10789639454137,0 -77.01022633579775,-12.10836696810517,0 -77.01012664377791,-12.10891325008807,0 -77.01004012366036,-12.10925291371004,0 -77.0099773837556,-12.10950374668915,0 -77.00986854431858,-12.11023539474901,0 -77.0097810427736,-12.11024506950721,0 -77.00975919353468,-12.11052180245512,0 -77.00973939417116,-12.1107932675687,0 -77.00972666752527,-12.11105663235419,0 -77.00970229654752,-12.1114808254063,0 -77.0096765634385,-12.11175043494957,0 -77.00966081238499,-12.1119508467342,0 -77.00964781177723,-12.11219115001105,0 -77.00962561357373,-12.11237563142435,0 -77.00891998523598,-12.11233571390359,0 -77.00851879296101,-12.11231150490154,0 -77.00753562944141,-12.11223954107233,0 -77.0071975737164,-12.11222999678665,0 -77.00652815229313,-12.11218384667624,0 -77.00536755683798,-12.11209014352533,0 -77.00466400985228,-12.11204221767074,0 -77.00386128379012,-12.11198342744211,0 -77.00224641703558,-12.11190156654995,0 -77.00153978860628,-12.11186231060955,0 -77.00041523941876,-12.11181292096971,0 -77.00016296570013,-12.11177287118898,0 -77.00026537598215,-12.11094083806588,0 -77.00034104385382,-12.11051741310547,0 -77.00044690618017,-12.10981532225744,0 -77.00084448012339,-12.10706233594994,0 -77.00100231271695,-12.10585070802468,0 -77.0029116735529,-12.10584374657979,0 -77.00430707649969,-12.10584734217353,0 -77.00510017012066,-12.10585368157882,0 -77.00588063259575,-12.10580398768222,0 -77.00595744934873,-12.10619739082562,0 -77.00658682005709,-12.10665495868411,0 -77.0071937587939,-12.10701913886045,0 -77.00785409852985,-12.10744131297203,0 -77.00828368787671,-12.1075028221007,0 -77.00922022291864,-12.10769360082419,0 -77.0103304922886,-12.10789639454137,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector11_SanBorja</name>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.00084815103449,-12.10706567557709,0 -77.00075544061909,-12.10765545542172,0 -77.00061227210493,-12.10859709010897,0 -77.00040246577335,-12.11002360704644,0 -77.00015143592327,-12.11177097954132,0 -76.99960544398267,-12.11174302047641,0 -76.99930473424662,-12.11166882739395,0 -76.99860458182062,-12.1116135692991,0 -76.99394815581365,-12.1112977158274,0 -76.99365277849341,-12.1112797362344,0 -76.9936374983172,-12.11074905016432,0 -76.99346569714869,-12.11030150368255,0 -76.99329162310356,-12.10983006373219,0 -76.99308875825831,-12.10940258230583,0 -76.99272384190103,-12.10852169880121,0 -76.99261445237626,-12.10827365518921,0 -76.99257585065899,-12.10816424901403,0 -76.9925819966748,-12.10791779030547,0 -76.99374225203498,-12.10742365224626,0 -76.99446382433921,-12.10711102771035,0 -76.99478055548285,-12.10696752772589,0 -76.995180304131,-12.10674775956572,0 -76.99544503241606,-12.10672145474632,0 -76.99622808179829,-12.10678917558291,0 -76.99708651911982,-12.10685535639717,0 -76.9975948516566,-12.10688276842588,0 -77.00084815103449,-12.10706567557709,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector12_SanBorja</name>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-76.98919666810895,-12.09602340866181,0 -76.98921687137754,-12.09646330511439,0 -76.98920140244306,-12.09697261357636,0 -76.98922310249506,-12.09716023079967,0 -76.98922256895929,-12.09785189182422,0 -76.98921344335535,-12.09848636902605,0 -76.98920486805532,-12.09865115123455,0 -76.98914041451879,-12.09904593859476,0 -76.98910675292687,-12.09936388444096,0 -76.98910019717877,-12.09966388825221,0 -76.9891028290718,-12.09988919376488,0 -76.98922047903716,-12.10033690938408,0 -76.989309665525,-12.10057214570544,0 -76.98952612739158,-12.10109529820992,0 -76.9896886535204,-12.1014837281302,0 -76.98989786752107,-12.10193336624319,0 -76.99016177251319,-12.10248800852839,0 -76.99032621742721,-12.10292734206881,0 -76.99061607425767,-12.10363680747176,0 -76.99075916290538,-12.10393103937047,0 -76.99126409828639,-12.10504707065581,0 -76.99171411175598,-12.10601695341521,0 -76.99198447801228,-12.10661055780805,0 -76.99220393524804,-12.10708871843784,0 -76.99238034548367,-12.10747467994482,0 -76.9925789639744,-12.10791684384127,0 -76.9925765077268,-12.10816469183459,0 -76.99309272082922,-12.10942268700119,0 -76.99329070543355,-12.10983742370517,0 -76.9936335405813,-12.11075053156615,0 -76.99364369285341,-12.11127702771634,0 -76.99184510179478,-12.11114050180318,0 -76.9910333498004,-12.11109706870367,0 -76.98951617585017,-12.11100245139872,0 -76.98452601824761,-12.11064509393558,0 -76.98326285918327,-12.11055931708087,0 -76.98107953047136,-12.11041269247174,0 -76.98034420038314,-12.11036869932424,0 -76.97827108151934,-12.11022378813374,0 -76.97849936957017,-12.1084044668642,0 -76.97861527861428,-12.10763304592755,0 -76.97875832301128,-12.10654369654804,0 -76.97888019019391,-12.10567968668305,0 -76.97899727932042,-12.1048056384975,0 -76.97910902221389,-12.10407235308048,0 -76.97927825806072,-12.10250535267912,0 -76.97945715043454,-12.1025164458121,0 -76.97979425877362,-12.10254028866214,0 -76.98025151797084,-12.10257199438801,0 -76.98028764583027,-12.10234810377646,0 -76.98041532051747,-12.10123924769236,0 -76.98055121856738,-12.10017076804158,0 -76.98062755246382,-12.09955589399336,0 -76.98083080573549,-12.09805057371713,0 -76.98098638881325,-12.09745179969207,0 -76.98246889234805,-12.09764732384886,0 -76.98324102613192,-12.09748640133703,0 -76.98384808341623,-12.0971689351821,0 -76.98456567394481,-12.09665653734948,0 -76.98542788770749,-12.09643624309964,0 -76.98580427207554,-12.09643624661555,0 -76.98727439584665,-12.09654023035735,0 -76.98787761697604,-12.09643453081256,0 -76.98799795077785,-12.09641537442302,0 -76.98893237393473,-12.09612589997646,0 -76.98903740056826,-12.09608103725324,0 -76.98908251307994,-12.09605894506814,0 -76.98919666810895,-12.09602340866181,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
