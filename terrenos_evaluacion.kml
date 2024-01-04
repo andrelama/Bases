@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Nuevos Terrenos Octubre 2023</name>
+	<open>1</open>
+	<Placemark>
+		<name>Gaviotas - Chorrillos</name>
+		<styleUrl>#icon-seq2-0-0-0288D1-nodesc</styleUrl>
+		<Point>
+			<coordinates>-77.0076048,-12.1821388,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Santa Catalina - Unacem</name>
+		<styleUrl>#icon-seq2-0-1-0288D1-nodesc</styleUrl>
+		<Point>
+			<coordinates>-77.0222454,-12.0890868,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>El Comercio - Santa Catalina</name>
+		<description>4,000m2</description>
+		<styleUrl>#icon-seq2-0-2-0288D1</styleUrl>
+		<Point>
+			<coordinates>-77.01125,-12.08057,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Germania - Surquillo</name>
+		<description><![CDATA[Terreno de Max Mohr<br>1,335m2]]></description>
+		<styleUrl>#icon-seq2-0-3-0288D1</styleUrl>
+		<Point>
+			<coordinates>-77.0105808,-12.1120271,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Terreno Chicharra - Nicolas Ayllon &amp; Panamericana Norte</name>
+		<description>9,450m2 para construir</description>
+		<styleUrl>#icon-seq2-0-4-0288D1</styleUrl>
+		<Point>
+			<coordinates>-76.9735567,-12.0589526,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Av. República de Venezuela 2303</name>
+		<description><![CDATA[4,667m2<br>Terreno Universal Textil -  US$ 1,350m2 - US$ 6'300,450<br>Corredora: Yolanda Artola]]></description>
+		<styleUrl>#icon-seq2-0-5-0288D1</styleUrl>
+		<Point>
+			<coordinates>-77.0639398,-12.0573373,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Av Tomás Marsano 2341</name>
+		<styleUrl>#icon-seq2-0-6-0288D1-nodesc</styleUrl>
+		<Point>
+			<coordinates>-77.00427689999999,-12.1237457,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>El Comercio - Pando</name>
+		<description>Parque Arauco compra una GRAN PARTE. Nosotros nos quedamos con 4mil. Chopi está haciendo negocio.</description>
+		<styleUrl>#icon-seq2-0-7-0288D1</styleUrl>
+		<Point>
+			<coordinates>-77.0775955,-12.0707581,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Mayorsa -Tingo María - Breña</name>
+		<description>5,000m2 - Aporte</description>
+		<styleUrl>#icon-seq2-0-8-0288D1</styleUrl>
+		<Point>
+			<coordinates>-77.0543694,-12.0513998,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Av. Brasil 3930 Magdalena</name>
+		<description><![CDATA[2,305.20m2<br>USD6'915,600.00 (a razón de USD3,000m2 negociable)<br>Hoy CV / RDM - Acumularán partidas para conseguir más altura.]]></description>
+		<styleUrl>#icon-seq2-0-9-0288D1</styleUrl>
+		<Point>
+			<coordinates>-77.070801,-12.0954662,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Larco con 28 de Julio</name>
+		<description>Chopi</description>
+		<styleUrl>#icon-seq2-0-10-0288D1</styleUrl>
+		<Point>
+			<coordinates>-77.0294258,-12.1270903,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ex-Enel - San Miguel</name>
+		<styleUrl>#icon-seq2-0-11-0288D1-nodesc</styleUrl>
+		<Point>
+			<coordinates>-77.0898145,-12.0751366,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Aramburú con Via Expresa</name>
+		<styleUrl>#icon-seq2-0-12-0288D1-nodesc</styleUrl>
+		<Point>
+			<coordinates>-77.0277502,-12.1026046,0</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+</kml>
