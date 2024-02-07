@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name><![CDATA[Terrenos en Evaluación V&V - Noviembre 2023]]></name>
+    <description/>
+    <Style id="icon-seq2-0-0-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-0-0-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-seq2-0-0-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-0-0-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-0-0-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-0-1-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-0-1-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-seq2-0-1-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-0-1-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-0-1-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-0-10-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-11.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-0-10-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-11.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-0-10-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-0-10-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-0-10-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-0-11-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-12.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-0-11-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-12.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-0-11-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-0-11-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-0-11-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-0-12-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-13.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-0-12-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-13.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-seq2-0-12-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-0-12-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-0-12-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-0-13-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-14.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-0-13-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-14.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-0-13-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-0-13-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-0-13-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-0-14-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-15.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-0-14-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-15.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-0-14-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-0-14-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-0-14-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-0-15-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-16.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-0-15-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-16.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-0-15-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-0-15-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-0-15-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-0-16-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-17.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-0-16-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-17.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-seq2-0-16-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-0-16-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-0-16-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-0-17-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-18.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-0-17-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-18.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-seq2-0-17-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-0-17-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-0-17-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-0-2-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-3.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-0-2-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-3.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-0-2-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-0-2-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-0-2-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-0-3-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-0-3-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-0-3-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-0-3-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-0-3-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-0-4-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-5.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-0-4-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-5.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-0-4-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-0-4-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-0-4-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-0-5-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-6.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-0-5-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-6.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-0-5-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-0-5-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-0-5-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-0-6-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-7.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-0-6-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-7.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-0-6-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-0-6-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-0-6-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-0-7-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-8.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-0-7-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-8.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-0-7-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-0-7-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-0-7-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-0-8-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-9.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-0-8-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-9.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-0-8-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-0-8-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-0-8-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-0-9-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-10.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-0-9-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-10.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-0-9-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-0-9-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-0-9-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Nuevos Terrenos Octubre 2023</name>
+      <Placemark>
+        <name>Gaviotas - Chorrillos</name>
+        <styleUrl>#icon-seq2-0-0-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0076048,-12.1821388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Santa Catalina - Unacem
+</name>
+        <styleUrl>#icon-seq2-0-1-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0222454,-12.0890868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>El Comercio - Santa Catalina</name>
+        <description>4,000m2</description>
+        <styleUrl>#icon-seq2-0-2-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -77.01125,-12.08057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Germania - Surquillo</name>
+        <description><![CDATA[Terreno de Max Mohr<br>1,335m2]]></description>
+        <styleUrl>#icon-seq2-0-3-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0105808,-12.1120271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Terreno Chicharra - Nicolas Ayllon & Panamericana Norte]]></name>
+        <description>9,450m2 para construir</description>
+        <styleUrl>#icon-seq2-0-4-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -76.9735567,-12.0589526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guillermo Dansey - Cercado</name>
+        <description><![CDATA[1600 m2<br>La propuesta sería de L siguiente manera:<br>Inicial 10%<br>Precio : $1,300 x m2<br>Rentabilidad del 25 % o 25 % del valor del terreno, cómo rentabilidad por entrar en asociación en participación]]></description>
+        <styleUrl>#icon-seq2-0-5-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -77.062562,-12.0468912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. San Bernardo - Los Olivos</name>
+        <description><![CDATA[18,000 m2<br>El precio propuesto por el lote final tendrá un Valor de US$ 10’800,000 a razón de US$ 600.00 por m2.]]></description>
+        <styleUrl>#icon-seq2-0-6-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0672336,-11.9529106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Husares de Junin - Jesús María</name>
+        <description><![CDATA[TERRENO – JESUS MARIA – AV. HUSARES DE JUNIN N° 253-257-261-265-271 – URB. DEL FUNDO DE JESUS MARIA <br>AT: 1,073.70 M2. <br>FRENTE: 26.12 ML (AV. HUSARES DE JUNIN) <br>F.DER. 40.34 ML <br>F.IZQ: 39.50 ML <br>FONDO: 27.00 ML <br>PARAMETRO: 1.5 (A+ R) = 1.5 (20+10) = 45/2.6 = 17 PISOS + AZOTEA <br>ZONIFICACION: CZ <br>USO PERMISIBLE: RDA <br>ESTACIONAMIENTO: 1 C/ 1.5 VIV. <br>AREA LIBRE: 40 % <br>RETIRO: 5.00 ML (PARA AMBOS FRENTES) <br>PRECIO X M2: 3,260.00 <br>PRECIO TOTAL: US$ 3’500,000.00 (DOLARES AMERICANOS)<br><br>La zona vende a S/ 6,300 m2<br>5 unidades por mes promedio<br><br>El terreno debería costar máximo US$ 2,800m2 ]]></description>
+        <styleUrl>#icon-seq2-0-7-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0521689,-12.0762183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Brasil 3930 Magdalena</name>
+        <description><![CDATA[2,305.20m2<br>USD6'915,600.00 (a razón de USD3,000m2 negociable)<br>Hoy CV / RDM - Acumularán partidas para conseguir más altura.]]></description>
+        <styleUrl>#icon-seq2-0-8-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -77.070801,-12.0954662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pecsa Breña</name>
+        <description>2,500m2</description>
+        <styleUrl>#icon-seq2-0-9-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0469997,-12.0584256,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Simón Bolívar 1858</name>
+        <description><![CDATA[$2500 x m2<br>6,000m2 (100x 60)<br>RDA]]></description>
+        <styleUrl>#icon-seq2-0-10-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0741083,-12.0710734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. República de Venezuela 2303</name>
+        <description><![CDATA[4,667m2<br>Terreno Universal Textil -  US$ 1,350m2 - US$ 6'300,450<br>Corredora: Yolanda Artola]]></description>
+        <styleUrl>#icon-seq2-0-11-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0639398,-12.0573373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av Tomás Marsano 2341</name>
+        <styleUrl>#icon-seq2-0-12-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0042769,-12.1237457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>El Comercio - Pando</name>
+        <description>Parque Arauco compra una GRAN PARTE. Nosotros nos quedamos con 4mil. Chopi está haciendo negocio.</description>
+        <styleUrl>#icon-seq2-0-13-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0775955,-12.0707581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mayorsa -Tingo María - Breña</name>
+        <description>5,000m2 - Aporte</description>
+        <styleUrl>#icon-seq2-0-14-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0543694,-12.0513998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Larco con 28 de Julio</name>
+        <description>Chopi</description>
+        <styleUrl>#icon-seq2-0-15-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0294258,-12.1270903,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aramburú con Via Expresa</name>
+        <styleUrl>#icon-seq2-0-16-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0277502,-12.1026046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Consorcio Metro de Lima linea 2 oficinas</name>
+        <styleUrl>#icon-seq2-0-17-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0633019,-12.0469492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
