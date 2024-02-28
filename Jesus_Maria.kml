@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Jesus_Maria.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>8000ff55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>8000ff55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>8000ff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>80005555</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>8000aaff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>800000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>800000aa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>80ffff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>8000aaff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>80ff55ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>800000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>800000aa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>8000ff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>80ff55ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>80ffff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>8000aaff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>80005555</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>8000aaff</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>Jesus_Maria</name>
+		<open>1</open>
+		<Placemark>
+			<name>Sector1_JesusMaria</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.03994356616636,-12.08039210779645,0 -77.03855726060824,-12.08019114052194,0 -77.03627505953548,-12.07984502156813,0 -77.03808327426461,-12.06809566198069,0 -77.0381884435042,-12.06787672836799,0 -77.03753473372828,-12.06426717470586,0 -77.03880224088573,-12.06441275167285,0 -77.03950955435931,-12.06840411894714,0 -77.03974324010574,-12.0690888236691,0 -77.04117377127382,-12.07210107644683,0 -77.04187197799446,-12.07384524987121,0 -77.04206451373312,-12.07516708152377,0 -77.04220802336754,-12.07768026992493,0 -77.04226918163995,-12.07970392958464,0 -77.04170695271701,-12.07977543503203,0 -77.04179408718937,-12.08061972728335,0 -77.03994356616636,-12.08039210779645,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector2_JesusMaria</name>
+			<styleUrl>#msn_ylw-pushpin5</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.04118956998076,-12.07213975844202,0 -77.04103195354463,-12.07179643241384,0 -77.04081265945391,-12.07133963971028,0 -77.04048045636824,-12.07063650155203,0 -77.0399902686236,-12.06962140074613,0 -77.03973099760418,-12.06905390341995,0 -77.03949572499786,-12.0683473502409,0 -77.03945291132011,-12.06807134109512,0 -77.03879981048225,-12.06441028873484,0 -77.04571885507723,-12.06530624298253,0 -77.04968522513079,-12.07020690485001,0 -77.04660552554199,-12.07269250905257,0 -77.04532175162443,-12.07272671367175,0 -77.04527304266854,-12.07241150078216,0 -77.04508942032174,-12.07226465900969,0 -77.04488764123164,-12.07226587468354,0 -77.04473039985086,-12.07242136469435,0 -77.04470274468872,-12.07275320002009,0 -77.04145019380302,-12.07279401665712,0 -77.04118956998076,-12.07213975844202,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector3_JesusMaria</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.04470063494747,-12.07275330135832,0 -77.04472742523016,-12.07242683634263,0 -77.04488401617904,-12.07226575179681,0 -77.04508889286032,-12.07226220438151,0 -77.04526929350956,-12.07240601454847,0 -77.04532050424035,-12.07272957880408,0 -77.04660247363762,-12.0726946485577,0 -77.04681345201803,-12.07252035883117,0 -77.04689629905529,-12.07730654607106,0 -77.04651439703859,-12.07762310361777,0 -77.04731976156424,-12.07859405516371,0 -77.04680228909281,-12.07907026249262,0 -77.04676943959615,-12.07947576382282,0 -77.0468352489072,-12.08118232806753,0 -77.04574281686362,-12.08126745869459,0 -77.04586463913753,-12.08233839412097,0 -77.04559301117763,-12.082450304907,0 -77.04630205998058,-12.08303529128572,0 -77.04509244369055,-12.08308871850541,0 -77.04373418840254,-12.08316394079259,0 -77.0428897263873,-12.08306485406323,0 -77.04237305035485,-12.08300090467877,0 -77.04195102253712,-12.08292067144163,0 -77.04170662535553,-12.07978030723032,0 -77.04226534229943,-12.07970067908536,0 -77.04219907737355,-12.07754674970027,0 -77.04212983196757,-12.07628276771632,0 -77.04204753084638,-12.07511326205801,0 -77.04185536388481,-12.07382356551642,0 -77.04144791731183,-12.07279604664555,0 -77.04470063494747,-12.07275330135832,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector4_JesusMaria</name>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.04681534930131,-12.07252533924703,0 -77.0496856752814,-12.07020695666653,0 -77.05296627147675,-12.07411676246636,0 -77.04731762660295,-12.0785962463932,0 -77.04651619826346,-12.07762284128377,0 -77.0468956356907,-12.07730527728238,0 -77.04681534930131,-12.07252533924703,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector5_JesusMaria</name>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.04559501660314,-12.08245252693525,0 -77.04585952453138,-12.08233353110047,0 -77.04574326831263,-12.08128194454774,0 -77.046835492475,-12.08117937446618,0 -77.04676195719745,-12.07949606213316,0 -77.04680113877502,-12.07907808210866,0 -77.04732380294627,-12.07859185683184,0 -77.04952663014404,-12.07684170661937,0 -77.05281054350938,-12.08075069529405,0 -77.05346090984561,-12.08151157987869,0 -77.05393637867273,-12.08173154863779,0 -77.05379829931741,-12.0821253170944,0 -77.05386161414522,-12.08274158153086,0 -77.05419459936815,-12.08335887405817,0 -77.0531181825947,-12.0834325856743,0 -77.05204716116951,-12.08315158749792,0 -77.05062694240078,-12.08260042169726,0 -77.04912018234999,-12.08206608882443,0 -77.048729466957,-12.08197102427961,0 -77.04762576440208,-12.08193838205781,0 -77.04660341475136,-12.08214873827397,0 -77.04605450663294,-12.08232317889281,0 -77.04576567808863,-12.0825956835857,0 -77.04576899977924,-12.08258916506418,0 -77.04559501660314,-12.08245252693525,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector6_JesusMaria</name>
+			<styleUrl>#msn_ylw-pushpin6</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.05385969651925,-12.08273577166427,0 -77.05379721396353,-12.08212676091054,0 -77.05393497864756,-12.08173045921605,0 -77.0534602319884,-12.08150969392995,0 -77.05200165212754,-12.07978011789493,0 -77.05117199251957,-12.07879898427967,0 -77.05035773412855,-12.07782830838525,0 -77.04952495269636,-12.07684735765097,0 -77.05296864597129,-12.07411832651835,0 -77.05838106361948,-12.08059731637864,0 -77.0564916279022,-12.08208656330087,0 -77.05523321563665,-12.0829987516717,0 -77.05419353034746,-12.08335913728174,0 -77.05385969651925,-12.08273577166427,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector9_JesusMaria</name>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.05324529475436,-12.0930146255806,0 -77.05009864230188,-12.08701269692036,0 -77.05159355257517,-12.08411557882381,0 -77.05606330898574,-12.08774564709864,0 -77.0576783149955,-12.09009648144268,0 -77.05324529475436,-12.0930146255806,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector8_JesusMaria</name>
+			<LookAt>
+				<longitude>-77.0499074318251</longitude>
+				<latitude>-12.08626531354198</latitude>
+				<altitude>0</altitude>
+				<heading>0.2418512677026491</heading>
+				<tilt>30.0010074558949</tilt>
+				<range>224.1057161807801</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.05010858166757,-12.08697944655894,0 -77.04997265054907,-12.08672688938795,0 -77.04964655539693,-12.08622711144448,0 -77.04943353922593,-12.08589595587697,0 -77.04873242147718,-12.08518731388429,0 -77.04851074183728,-12.08496141852348,0 -77.04745572191879,-12.08402218560699,0 -77.04628654602767,-12.08302391108911,0 -77.04558864748752,-12.08245722388742,0 -77.04639099922545,-12.08221688027125,0 -77.04656775139273,-12.08215190678681,0 -77.04708599841254,-12.0820468276064,0 -77.04761546259593,-12.08194143699893,0 -77.0479785878716,-12.08194872797976,0 -77.04873198378584,-12.08197065433922,0 -77.0491114895574,-12.08206060487393,0 -77.05029844549526,-12.08247073841435,0 -77.05140281632583,-12.08289532842877,0 -77.05202334854411,-12.08314578396872,0 -77.05312684465773,-12.08343126750404,0 -77.05418335787057,-12.0833591808896,0 -77.05582984372948,-12.08589003972019,0 -77.05609479389796,-12.08626434255395,0 -77.05629983187058,-12.08638739606011,0 -77.05704108891506,-12.0872495066198,0 -77.05721633973958,-12.08731932374666,0 -77.05779010448165,-12.08687281260895,0 -77.05818877149621,-12.08733041494282,0 -77.05839237135937,-12.08718462315862,0 -77.0597205881438,-12.08877617376728,0 -77.05767396085979,-12.090096328243,0 -77.05606202539772,-12.08774310561452,0 -77.05159558238125,-12.08411288934284,0 -77.05010858166757,-12.08697944655894,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sector7_JesusMaria</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.05972268698545,-12.08878024889807,0 -77.05838742659589,-12.08718427228437,0 -77.05819223663606,-12.08732908583339,0 -77.05778825010489,-12.08687503147274,0 -77.0572170957609,-12.08731753883058,0 -77.05703987025049,-12.08724888114344,0 -77.05629857164334,-12.08638571082981,0 -77.05609287855552,-12.08626435692437,0 -77.05418326141293,-12.08335879522591,0 -77.05524171106231,-12.08299683220381,0 -77.05649355483577,-12.08208551011669,0 -77.05729027527001,-12.08145797744038,0 -77.05837908847829,-12.08059897650241,0 -77.06265166625988,-12.08592889143691,0 -77.0631657669811,-12.08646371542836,0 -77.05972268698545,-12.08878024889807,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
