@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name><![CDATA[Terrenos en Evaluación V&V - 2024]]></name>
+    <description/>
+    <Style id="icon-seq2-0-0-0288D1-labelson-nodesc">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-0-1-0288D1-labelson-nodesc">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-0-10-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-11.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-11-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-12.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-12-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-13.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-13-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-14.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-2-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-3-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-4.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-4-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-5.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-5-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-6.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-6-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-7.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-7-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-8.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-8-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-9.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-9-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-10.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>Nuevos Terrenos Marzo 2024</name>
+      <Placemark>
+        <name>Gaviotas - Chorrillos</name>
+        <styleUrl>#icon-seq2-0-0-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0076048,-12.1821388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Santa Catalina - Unacem
+</name>
+        <styleUrl>#icon-seq2-0-1-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0222454,-12.0890868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Germania - Surquillo</name>
+        <description><![CDATA[Terreno de Max Mohr<br>1,335m2]]></description>
+        <styleUrl>#icon-seq2-0-2-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0105808,-12.1120271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Terreno Chicharra - Nicolas Ayllon & Panamericana Norte]]></name>
+        <description>9,450m2 para construir</description>
+        <styleUrl>#icon-seq2-0-3-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -76.9735567,-12.0589526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Via Expresa - Santa Catalina</name>
+        <description><![CDATA[5,211 m2<br>2 lotes:<br> Lote uno: 2,100 m2 (30 x 70).<br>- Lote dos: 3,111 m2<br>SOCIEDAD con APORTE<br>CZ compatible con RDA<br>US$ 3,500 x m2 (Asking price) ]]></description>
+        <styleUrl>#icon-seq2-0-4-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0238831,-12.0878948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pecsa Breña</name>
+        <description>2,500m2</description>
+        <styleUrl>#icon-seq2-0-5-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0469997,-12.0584256,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>El Comercio - Pando</name>
+        <description>Parque Arauco compra una GRAN PARTE. Nosotros nos quedamos con 4mil. Chopi está haciendo negocio.</description>
+        <styleUrl>#icon-seq2-0-6-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0775955,-12.0707581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sucre 358 - Magdalena</name>
+        <description><![CDATA[Como terreno y activo de la empresa. US$ 3,250x m2.<br>Acciones de la empresa - Absorber la empresa, No tiene movimiento. Ni planilla. US$2,600.00 x m2<br><br>AT: 955.2636 M2.<br>FRENTE: 19.09 ML (AVENIDA JOSE ANTONIO DE SUCRE)<br>F.DER: 50.04 ML <br>F.IZQ: 50.04 ML<br>FONDO: 19.09 ML<br>PARAMETRO: 1.5 (A+ R) = 45.075/2.5 =18 PISOS + 80% AZOTEA<br>ZONIFICACION: RDA<br>ANCHO DE VIA: 20.05 M<br>USO PERMISIBLE: COMERCIAL (DE ACUERDO AL MUNICIPIO)<br>AREA LIBRE: 40%<br>RETIRO: 5.00 M<br>DENSIDAD: 2,500 HAB/HA<br>ESTACIONAMIENTO: 1 C/ 1.5 VIV.<br>PRECIO X M2: US $ 3,250.00 <br>PRECIO TOTAL: US $ 3’104,606.70 (DOLARES AMERICANOS).]]></description>
+        <styleUrl>#icon-seq2-0-7-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0719031,-12.0957969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Javier Prado Oesto 890 / Faustino sanchez Carrión 490</name>
+        <description>3 casas 1 RDA 2 RDB</description>
+        <styleUrl>#icon-seq2-0-8-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0596943,-12.0935462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av Colonial 2100</name>
+        <description><![CDATA[Posible Aporte<br>AREA: 3,690 m2 <br>Zonificación CM – COMERCIO METROPOLITANO<br>Frente 1: av. Colonial: 51.21 ml<br>Frente 2: Jr. Loreto: 89.70 ml.<br>Frente 3: G. Dansey: 31 ml.<br> Parámetros para 25 pisos aprox.<br>Precio: US$ 6.2 Mlls.     ]]></description>
+        <styleUrl>#icon-seq2-0-9-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0690624,-12.0488314,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>COLONIAL Av. Óscar R. Benavides 5115</name>
+        <description><![CDATA[3,000 M2<br> ZONIFICACIÓN: ZRE– ZONA DE REGLAMENTACIÓN ESPECIAL (USOS<br>VIVIENDA, MULTIFAMILIAR, CONJUNTO RESIDENCIAL, COMERCIO,<br>INDUSTRIA).<br> PARÁMETROS PARA 18 PISOS.<br> PRECIO POR M2 US$ 1,633.00 (US$ 4’900,000.00 DÓLARES<br>AMERICANOS).]]></description>
+        <styleUrl>#icon-seq2-0-10-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0903448,-12.0520065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. San Bernardo - Los Olivos</name>
+        <description><![CDATA[18,000 m2<br>El precio propuesto por el lote final tendrá un Valor de US$ 10’800,000 a razón de US$ 600.00 por m2.]]></description>
+        <styleUrl>#icon-seq2-0-11-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0672336,-11.9529106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. República de Venezuela 2303</name>
+        <description><![CDATA[4,667m2<br>Terreno Universal Textil -  US$ 1,350m2 - US$ 6'300,450<br>Corredora: Yolanda Artola]]></description>
+        <styleUrl>#icon-seq2-0-12-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0639398,-12.0573373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Andrés Aramburú 932 - 958</name>
+        <description><![CDATA[-Entre los tres lotes: 829m2<br>-Precio: $3,300 M2<br>-Forma de pago no es clara, justo eso están viendo Mauricio y sus hermanos.<br>-Aramburu #932 264M2<br>-Aramburu # 934 157M2<br>-Aramburu #956-958 408M2]]></description>
+        <styleUrl>#icon-seq2-0-13-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0205952,-12.102346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
