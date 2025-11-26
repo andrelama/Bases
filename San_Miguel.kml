@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>San Miguel.kml</name>
+	<StyleMap id="msn_ylw-pushpin000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin600</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin70</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin60">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin90">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin90</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin40">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>cc7f0000</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>b0ffefe0</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7f0000</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>b0ffefe0</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin70">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7f0000</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>b0ffefe0</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin90">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7f0000</color>
+			<width>3.2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>b0ffefe0</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin000">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>cc7f0000</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>b0ffefe0</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin13">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7f0000</color>
+			<width>3.2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>b0ffefe0</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin30">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7f0000</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>b0ffefe0</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin600">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7f0000</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>b0ffefe0</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>San Miguel</name>
+		<Placemark>
+			<name>Zona1_San Miguel</name>
+			<styleUrl>#msn_ylw-pushpin15</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.10464735256232,-12.06336409512772,0 -77.10394366700149,-12.0668891864631,0 -77.10403520331261,-12.06839933831148,0 -77.10489833683947,-12.0718071375289,0 -77.10103306775578,-12.07359871978059,0 -77.09957993252326,-12.07420826911271,0 -77.09813457435659,-12.06965909666698,0 -77.09735645541832,-12.06701210270607,0 -77.09733663069346,-12.06262273351189,0 -77.10464735256232,-12.06336409512772,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Zona2_San Miguel</name>
+			<styleUrl>#msn_ylw-pushpin60</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.09706655622225,-12.06251390487482,0 -77.0972100888697,-12.06688932798301,0 -77.09785388352668,-12.06917832977167,0 -77.09909074707731,-12.07325940304895,0 -77.09905925456879,-12.07441010493106,0 -77.09492569426484,-12.07660774129501,0 -77.0945416214702,-12.07586358224051,0 -77.0938573914771,-12.07484402632581,0 -77.09449019318669,-12.074680729308,0 -77.09426981606239,-12.07367682821968,0 -77.0947743320079,-12.07355931377842,0 -77.09424136360434,-12.0696405938784,0 -77.09466877173519,-12.0695623091471,0 -77.09442218344141,-12.06740451902129,0 -77.09409103739105,-12.06645496232191,0 -77.09427935004905,-12.06629470382541,0 -77.09281936652759,-12.06384484049395,0 -77.09307082824796,-12.0621449879116,0 -77.09706655622225,-12.06251390487482,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Zona3_San Miguel</name>
+			<styleUrl>#msn_ylw-pushpin000</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.09441600642992,-12.06752662290634,0 -77.0944903774853,-12.06816053072832,0 -77.09464789630766,-12.06953159527638,0 -77.09421124864159,-12.06960410147236,0 -77.09473284469779,-12.07354642199916,0 -77.09426276532614,-12.0736631727929,0 -77.09446223314772,-12.074665185287,0 -77.09379347033686,-12.07484023511882,0 -77.09452415007524,-12.07588487373603,0 -77.09487896162017,-12.07657459720796,0 -77.09331428612853,-12.07726534959286,0 -77.09217944152992,-12.07766088152942,0 -77.09122294985842,-12.07780180230729,0 -77.08891240936072,-12.07790197928023,0 -77.0887881315624,-12.07776079468792,0 -77.08683610195258,-12.07295643028761,0 -77.0881111165388,-12.07242660808216,0 -77.08780842063217,-12.07184503528494,0 -77.08758068286025,-12.07137184260784,0 -77.08752085785554,-12.0710799697061,0 -77.08779318935063,-12.07069667733441,0 -77.08812555133822,-12.07056777809912,0 -77.08835641986728,-12.07060190161668,0 -77.08862712408667,-12.07054734480663,0 -77.08880215099404,-12.07042188957152,0 -77.08919209776857,-12.07015374420078,0 -77.08997597941921,-12.06961225274554,0 -77.09062263489297,-12.06943790910897,0 -77.09134938452067,-12.06922656912813,0 -77.09122622419021,-12.06870180220949,0 -77.0911806899078,-12.06846574205608,0 -77.09115999559194,-12.06822180416454,0 -77.09122826694403,-12.06802042992018,0 -77.09136591762476,-12.06782256288605,0 -77.09156073559625,-12.06770791630135,0 -77.09302470736628,-12.06739055443124,0 -77.09332265938025,-12.06720454349546,0 -77.09370456419579,-12.0666891911506,0 -77.09406647986528,-12.06644822893266,0 -77.09441600642992,-12.06752662290634,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Zona4_San Miguel</name>
+			<styleUrl>#msn_ylw-pushpin000</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.09156216346685,-12.06197671583916,0 -77.0930382312104,-12.06212129047774,0 -77.09304235184302,-12.06212563727293,0 -77.09305249317538,-12.0621407819225,0 -77.09305661464781,-12.06214512247027,0 -77.09279357585505,-12.06386127014176,0 -77.09423916948225,-12.0662961841704,0 -77.09362431687666,-12.06666426557829,0 -77.09329215948243,-12.06711942900464,0 -77.09294541920696,-12.0673308794546,0 -77.09161335751868,-12.06758979800157,0 -77.09125282450918,-12.06781165593683,0 -77.0911014510871,-12.06822712546077,0 -77.09128186794922,-12.06920703431266,0 -77.08999982383351,-12.06955790486456,0 -77.08857164558593,-12.07051980285002,0 -77.08827475124139,-12.07052578657781,0 -77.08801298832012,-12.07055860060052,0 -77.0877390532678,-12.0706926120999,0 -77.08748315112005,-12.07109547608978,0 -77.08753082067776,-12.07138959174889,0 -77.08801170879318,-12.07235574389705,0 -77.08668000330094,-12.07290290634028,0 -77.08698244772793,-12.07368833642779,0 -77.08383493066711,-12.07450800107455,0 -77.08290318338317,-12.07216348473892,0 -77.08286169436546,-12.07220745720459,0 -77.08281772684617,-12.0721956831072,0 -77.08280210311746,-12.07215068083817,0 -77.08052750950179,-12.07287311833922,0 -77.0786106384251,-12.07322252613334,0 -77.07842279212164,-12.07166652820522,0 -77.07811702128846,-12.07047426516377,0 -77.07790321976628,-12.06842315328615,0 -77.07828406697539,-12.06427980279626,0 -77.07927714854972,-12.06035099291602,0 -77.09156216346685,-12.06197671583916,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Zona5_San Miguel</name>
+			<styleUrl>#msn_ylw-pushpin000</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.08288170708266,-12.07221422271131,0 -77.08381725105477,-12.07458399929687,0 -77.08703556151785,-12.07372996242903,0 -77.08878272897162,-12.0780114492265,0 -77.08118303301093,-12.07812924945315,0 -77.0807149301086,-12.07623329353692,0 -77.07995079426063,-12.07498610708453,0 -77.07915776042026,-12.07414478634882,0 -77.07885962913096,-12.07371285078711,0 -77.07866610842629,-12.07325090676928,0 -77.08057025173397,-12.07289796506671,0 -77.08151506686755,-12.07260648716088,0 -77.08288170708266,-12.07221422271131,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Zona6_San Miguel</name>
+			<styleUrl>#msn_ylw-pushpin000</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.10608077619521,-12.07423558571998,0 -77.10763283922223,-12.07355082204137,0 -77.11003634187635,-12.07741806421256,0 -77.11054280893825,-12.07725313456212,0 -77.11109898438411,-12.07873593773951,0 -77.10427691637614,-12.08275301877756,0 -77.10339386611126,-12.08107933953918,0 -77.10265182720417,-12.08131015592972,0 -77.09990477495346,-12.07609154422756,0 -77.0993281646742,-12.07634799712672,0 -77.09869033950305,-12.07498047077111,0 -77.105023843548,-12.07189260168362,0 -77.10608077619521,-12.07423558571998,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Zona7_San Miguel</name>
+			<styleUrl>#msn_ylw-pushpin000</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.09940943377379,-12.07638781464919,0 -77.09994992603374,-12.07615013606337,0 -77.1026558822615,-12.08137393007695,0 -77.10335868948376,-12.08107820182231,0 -77.1041173721009,-12.08256494204164,0 -77.1025884392191,-12.08331682541254,0 -77.10163546692894,-12.08338854227534,0 -77.09700588934042,-12.08536981431884,0 -77.09342584660338,-12.07746294235431,0 -77.09866973611494,-12.0750248321961,0 -77.09940943377379,-12.07638781464919,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Zona9_San Miguel</name>
+			<styleUrl>#msn_ylw-pushpin90</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.08993228869238,-12.08411935205665,0 -77.09051418124713,-12.08470422555581,0 -77.09187680541193,-12.0876366133752,0 -77.0896245027989,-12.08882465035093,0 -77.08780465372955,-12.08974738923312,0 -77.0870461357263,-12.0899364646512,0 -77.08583230233879,-12.09055676390718,0 -77.08574780619777,-12.09061999592295,0 -77.08567972515759,-12.09058776372972,0 -77.08382442800806,-12.08689242258203,0 -77.0830558993903,-12.08491694472924,0 -77.08146372105828,-12.07832813004503,0 -77.08702549910888,-12.07816061919572,0 -77.08993228869238,-12.08411935205665,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Zona8_San Miguel</name>
+			<styleUrl>#msn_ylw-pushpin15</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.09185334094178,-12.0875859500658,0 -77.09053618366181,-12.084612727436,0 -77.09015755193116,-12.08430770173457,0 -77.09002698135362,-12.08400725507462,0 -77.08707165219013,-12.07829874794535,0 -77.09102846285813,-12.07803280822484,0 -77.09338003672138,-12.07747738962545,0 -77.0969157091817,-12.0852477599736,0 -77.09185334094178,-12.0875859500658,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Zon10_San Miguel</name>
+			<styleUrl>#msn_ylw-pushpin15</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.08300017019883,-12.08528986336311,0 -77.0837775080925,-12.0869156258269,0 -77.0856003718725,-12.09062980387644,0 -77.08483143235057,-12.09063528675601,0 -77.08342587230744,-12.09140491049555,0 -77.08336760734115,-12.09186002940321,0 -77.082004066774,-12.09274543833356,0 -77.08089398901566,-12.09295621332558,0 -77.07975195203922,-12.09380742352103,0 -77.07751048249271,-12.09501512105835,0 -77.07539969655913,-12.08929145036078,0 -77.07577061758832,-12.08911726971287,0 -77.07396613375468,-12.08567125656902,0 -77.07361512040333,-12.0857526838808,0 -77.07274787414337,-12.08438244970794,0 -77.07248959058656,-12.08449039710252,0 -77.07212870183686,-12.08357231120838,0 -77.07148261672528,-12.08168188271475,0 -77.081448170846,-12.07832865758895,0 -77.08300017019883,-12.08528986336311,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10441"></atom:link>
+	</Folder>
+</Document>
+</kml>
