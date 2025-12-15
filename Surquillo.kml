@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Surquillo.kml</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin22">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin24</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin22</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin18</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>e60200aa</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>800533ba</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin13">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>e60200aa</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>800533ba</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin18">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0200aa</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>800533ba</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>e60000aa</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>800533ba</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>e60200aa</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>800533ba</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin18">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0200aa</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>800533ba</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin22">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>e60000aa</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>800533ba</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin24">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>e60200aa</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>800533ba</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>Surquillo</name>
+		<Placemark>
+			<name>Zona1.1_Surquillo</name>
+			<styleUrl>#msn_ylw-pushpin22</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.02714240502533,-12.10415821135403,0 -77.02729957173896,-12.10539945337478,0 -77.02721205492155,-12.10606148719174,0 -77.02625280378379,-12.10844173314793,0 -77.01855475813908,-12.10566050712919,0 -77.01876744516322,-12.10191116085966,0 -77.02712194658569,-12.10288502848776,0 -77.02714240502533,-12.10415821135403,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Zona1.2_Surquillo</name>
+			<styleUrl>#msn_ylw-pushpin5</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.0257632578232,-12.11348067132582,0 -77.02233245779746,-12.11325369795184,0 -77.02273133263151,-12.10729610875765,0 -77.02629362994536,-12.10861258112711,0 -77.0257632578232,-12.11348067132582,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Zona1.3_Surquillo</name>
+			<styleUrl>#msn_ylw-pushpin6</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.02227196179885,-12.11325667517934,0 -77.01841746198635,-12.11300325580098,0 -77.01860381595414,-12.10576016307553,0 -77.02266701852488,-12.10733514965858,0 -77.02227196179885,-12.11325667517934,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Zona2.1_Surquillo</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.01860745225473,-12.10343593886826,0 -77.01835527655196,-12.11287485293619,0 -77.01658946064495,-12.11272610746957,0 -77.01219986638448,-12.11252591086332,0 -77.01460246061836,-12.10920222983763,0 -77.0167418709311,-12.10648890781795,0 -77.0164101085366,-12.10582819129436,0 -77.01662106962647,-12.10558016547796,0 -77.01648077939768,-12.10457861046547,0 -77.01616967880828,-12.1035116921934,0 -77.01655933085726,-12.10325184670128,0 -77.01649758957154,-12.1022730092242,0 -77.01864395554456,-12.10194818636107,0 -77.01860745225473,-12.10343593886826,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Zona2.2_Surquillo</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.00931218806569,-12.10975401789934,0 -77.00981799426718,-12.10972996184207,0 -77.01061667689326,-12.10730407320302,0 -77.0146592662569,-12.10798770474564,0 -77.0162801146639,-12.10600789905249,0 -77.01659000506959,-12.1065400971529,0 -77.01463374466685,-12.10889991923899,0 -77.01212515010262,-12.11244242421157,0 -77.00922080921615,-12.1122438059214,0 -77.00931218806569,-12.10975401789934,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Zona3.1_Surquillo</name>
+			<styleUrl>#msn_ylw-pushpin22</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.02591630409738,-12.11667544335243,0 -77.02601509302394,-12.11744389184382,0 -77.02563162611804,-12.11921541347555,0 -77.02485328753124,-12.11935048324949,0 -77.02427138497282,-12.11984102517205,0 -77.02131644508427,-12.11963674996496,0 -77.0223215363056,-12.11341335111862,0 -77.02575541963066,-12.11352674640871,0 -77.02591630409738,-12.11667544335243,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Zona3.2_Surquillo</name>
+			<styleUrl>#msn_ylw-pushpin22</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.02123326003348,-12.11959830906347,0 -77.01831632357967,-12.11944207598096,0 -77.01841893535754,-12.11308597741801,0 -77.02224372481083,-12.11343252045225,0 -77.02123326003348,-12.11959830906347,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Zona3.3_Surquillo</name>
+			<styleUrl>#msn_ylw-pushpin22</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.0182205746431,-12.11937942676522,0 -77.0173115200153,-12.11935687920568,0 -77.01602454490835,-12.11931849641109,0 -77.01601688471669,-12.11912429618964,0 -77.01476022714014,-12.11844533369479,0 -77.0138452852192,-12.1178649376521,0 -77.01364675869281,-12.11767934015371,0 -77.01362102854898,-12.11765744349197,0 -77.01358273759389,-12.11751502247346,0 -77.01337085748051,-12.11726367667411,0 -77.01304530916558,-12.11700277770363,0 -77.01290907249115,-12.11681450557904,0 -77.01269633720226,-12.11669243558371,0 -77.011829491591,-12.11608575689898,0 -77.01149347252121,-12.11559765012929,0 -77.01104748924976,-12.11508978896911,0 -77.01084154964958,-12.11463252141901,0 -77.01234857442154,-12.11249563600846,0 -77.01620309121459,-12.11268843689251,0 -77.01835768007822,-12.11298840011868,0 -77.0182205746431,-12.11937942676522,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Zona4.1_Surquillo</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.00573988405624,-12.12204570240173,0 -77.00365866130713,-12.12068807695814,0 -77.00599404785727,-12.11739021758805,0 -77.00656160754775,-12.11679859176794,0 -77.00683637870102,-12.11631676617371,0 -77.00708486374131,-12.115099561621,0 -77.00731659725844,-12.11204185555102,0 -77.01205998294559,-12.11262613870105,0 -77.00806350773287,-12.11860026291717,0 -77.00733716540567,-12.11977685557978,0 -77.00573988405624,-12.12204570240173,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Zona4.2_Surquillo</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.00267958741291,-12.12641059976013,0 -77.00255101225646,-12.12625972819942,0 -77.00229919809497,-12.12580998039075,0 -77.00205082458582,-12.12530839376879,0 -77.00078231843615,-12.12420344115493,0 -76.99894868238833,-12.12164778675863,0 -76.99884335361784,-12.12141141273732,0 -76.99874850908304,-12.12108355074506,0 -76.9987400255627,-12.1209777473855,0 -76.99862432875334,-12.12088579643079,0 -76.99843309875344,-12.12081239060351,0 -76.99785502966492,-12.12038999781645,0 -76.99759099837124,-12.11998069437067,0 -77.00364794451578,-12.12078914894428,0 -77.00565553419995,-12.12210092792466,0 -77.00267958741291,-12.12641059976013,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Zona4.3_Surquillo</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.00028787581485,-12.11179274122195,0 -77.00718981935435,-12.11222543136936,0 -77.00693860214814,-12.11492042969035,0 -77.00688127955145,-12.1158013062729,0 -77.00652342724688,-12.11662869609001,0 -77.00564069675276,-12.11765067991025,0 -77.00491665010799,-12.11878795334883,0 -77.00425177992828,-12.11974718757883,0 -77.00359583672808,-12.12068311537832,0 -76.99835341960215,-12.11998830430564,0 -76.99918105734858,-12.11602806766532,0 -77.00028787581485,-12.11179274122195,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Zona4.4_Surquillo</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-76.99824962718807,-12.1198279463892,0 -76.99752735144952,-12.11982724476632,0 -76.99705171238777,-12.11823470425773,0 -76.99525115628182,-12.11440589552425,0 -76.99688169318192,-12.11444737570787,0 -76.99731333824761,-12.11175044645966,0 -77.00008912830171,-12.11188727113653,0 -76.99824962718807,-12.1198279463892,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10441"></atom:link>
+	</Folder>
+</Document>
+</kml>
