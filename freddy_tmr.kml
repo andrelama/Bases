@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Terrenos Interesantes</name>
+    <Style id="icon-seq2-0-0-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-0-0-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-0-0-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-0-0-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-0-0-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-0-1-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-0-1-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-0-1-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-0-1-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-0-1-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-0-10-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-11.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-0-10-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-11.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-0-10-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-0-10-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-0-10-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-0-11-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-12.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-0-11-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-12.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-0-11-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-0-11-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-0-11-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-0-12-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-13.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-0-12-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-13.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-0-12-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-0-12-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-0-12-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-0-13-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-14.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-0-13-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-14.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-0-13-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-0-13-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-0-13-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-0-2-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-3.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-0-2-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-3.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-0-2-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-0-2-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-0-2-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-0-3-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-0-3-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-0-3-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-0-3-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-0-3-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-0-4-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-5.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-0-4-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-5.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-0-4-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-0-4-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-0-4-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-0-5-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-6.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-0-5-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-6.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-0-5-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-0-5-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-0-5-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-0-6-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-7.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-0-6-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-7.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-0-6-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-0-6-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-0-6-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-0-7-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-8.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-0-7-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-8.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-0-7-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-0-7-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-0-7-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-0-8-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-9.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-0-8-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-9.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-0-8-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-0-8-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-0-8-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-0-9-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-10.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-0-9-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-10.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-0-9-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-0-9-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-0-9-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Rest. Olivia (Chacarilla)</name>
+      <description><![CDATA[M2: 1027<br>Pxm2: $ 4,000<br>Precio Total: $ 4,108,000<br>Pisos: 17*<br>Incidencia: 19.26%<br>Frente: 21 ml<br>Link: https://maps.app.goo.gl/hKEFBmor4jPirRgV9]]></description>
+      <styleUrl>#icon-seq2-0-0-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          -76.9918178,-12.1145994,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Av. República de Chile 250 - Jesus Maria</name>
+      <description><![CDATA[M2: 612<br>Pxm2: $ 2,778<br>Precio Total: $ 1,700,136<br>Pisos: 16<br>Frente: 25ml<br>Incidencia: 16.12%<br>Corredor: Andrea Postigo<br>Link: https://maps.app.goo.gl/d31EA9oEGCVvjuh88]]></description>
+      <styleUrl>#icon-seq2-0-1-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          -77.0380332,-12.0661769,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Costanera 2600 - San Miguel</name>
+      <description><![CDATA[M2: 1,963.65<br>Pxm2: $ 2,000<br>Precio Total: $ 3,927,300<br>Pisos: 18<br>Incidencia:10.03%<br>Frente: 46.95ml<br>Corredor: Melissa Almonacid<br>Link: https://maps.app.goo.gl/LDAsCbr2nYFSSDC97]]></description>
+      <styleUrl>#icon-seq2-0-2-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          -77.1080163,-12.0803513,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Av. del Parque Nte. 313 - San Isidro</name>
+      <description><![CDATA[M2: 1620<br>Pxm2: $ 2,100<br>Precio Total: $ 3,402,000<br>Pisos: 7<br>Frente: 60 ml<br>Incidencia: 22.62%]]></description>
+      <styleUrl>#icon-seq2-0-3-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          -77.0160879,-12.0918846,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Frente Muni Surco</name>
+      <description><![CDATA[M2: 583<br>Pxm2: $ 2,850<br>Precio Total: $ 1,661,550<br>Pisos: 15<br>Incidencia: 16.68%<br>Frente: 21 ml<br>Link: https://maps.app.goo.gl/YC4fiCEeg5AXCiLa6]]></description>
+      <styleUrl>#icon-seq2-0-4-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          -76.9843565,-12.1474391,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vía Expresa Sur (Cancha Futbol) </name>
+      <description><![CDATA[M2: 5319.2<br>Pxm2: $ 2,400<br>Precio Total: $ 12,766,080<br>Pisos: 21<br>Incidencia: 13.79%<br>Corredor: Oscar Donayre<br>Link: https://maps.app.goo.gl/mMy9peTsRw7zXYt78]]></description>
+      <styleUrl>#icon-seq2-0-5-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          -77.014334,-12.1374057,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Los Halcones 135</name>
+      <description><![CDATA[M2: 720<br>Pxm2: $ 2,430.56<br>Precio Total: $ 1,750,00<br>Pisos: 7*<br>Frente: 24<br>Incidencia: 26.60%<br>Corredor: Nerida Harbauer<br>Link: https://maps.app.goo.gl/FbkCD8q5bSXxUVE76<br>Cliente Lander]]></description>
+      <styleUrl>#icon-seq2-0-6-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          -77.0210036,-12.0983268,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Derby & Manuel Olguin]]></name>
+      <description><![CDATA[M2: 3,177.5<br>Pxm2: $ 3,902<br>Precio Total: $ 12,398,605<br>Pisos: 17*<br>Incidencia:18,01%<br>Frente: 45ml<br>Link: https://maps.app.goo.gl/QbC3nbbGJ3h2sYdR6]]></description>
+      <styleUrl>#icon-seq2-0-7-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          -76.9729973,-12.0982405,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Av. Surco & Vía Expresa Sur - Surco]]></name>
+      <description><![CDATA[M2: 5,500<br>Pxm2: $ 1,800<br>Precio Total: $ 9,900,000<br>Pisos: 5*<br>Frente: 53<br>Incidencia: 42.17%<br>Link: https://maps.app.goo.gl/PfyAzEnB6eyYyv189]]></description>
+      <styleUrl>#icon-seq2-0-8-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          -76.9975158,-12.1452049,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tingo María cerca UPN - Cercado de Lima</name>
+      <description><![CDATA[M2: 1,952<br>Pxm2: $ 1,793<br>Precio Total: $ 3,500,000<br>Pisos: 20<br>Incidencia: 10.79%]]></description>
+      <styleUrl>#icon-seq2-0-9-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          -77.0590101,-12.0597404,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Av. Iquitos 724-740</name>
+      <description><![CDATA[M2: 1,220<br>Pxm2: $ 1,600<br>Precio Total: $ 1,952,000<br>Pisos: 15<br>Incidencia:13.08%<br>Frente: 21 ml]]></description>
+      <styleUrl>#icon-seq2-0-10-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          -77.0304795,-12.0677073,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Av. Brasil 537 - Cercado de Lima</name>
+      <description><![CDATA[M2: 1058<br>Pxm2: $ 2,842<br>Precio Total: $ 3,000,000<br>Pisos: 20<br>2 Frente: 20 ml y 14 ml<br>Incidencia: 22.62%]]></description>
+      <styleUrl>#icon-seq2-0-11-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          -77.0447996,-12.0648229,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Av Tejada 223</name>
+      <description><![CDATA[M2: 619<br>Pxm2: $ 4,000<br>Precio Total: $ 2,476,000<br>Pisos: 15<br>Incidencia: 21%<br>Frente: 20 ml<br><br>3  130m2<br>2  110m2<br>1    80m2]]></description>
+      <styleUrl>#icon-seq2-0-12-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          -77.0219095,-12.1341283,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Malecón</name>
+      <description><![CDATA[M2: 2,948<br>Pxm2: $ 8,048<br>Precio Total: $ 23,724,030<br>Pisos: 17<br>Incidencia: 24.87%<br>Frente: 20 ml<br><br>3 130m2<br>2 110m2<br>1 80m2]]></description>
+      <styleUrl>#icon-seq2-0-13-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          -77.0330729,-12.1300708,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
